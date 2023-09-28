@@ -31,7 +31,9 @@ li a:hover:not(.active) {
 .active {
   background-color: Black;
   color: White;
-  
+  body {
+    background-color: turquoise
+} 
 </style>
 </head>
 <body>
